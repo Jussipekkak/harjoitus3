@@ -1,4 +1,4 @@
-Tässä on uusi tarina githubia varten.
+Tässä on uusi tarina githubia varten.//MM
 
 Olipa kerran ohjelmoija joka halusi oppia githubin käyttöä.
 Eränä päivänä hän pääsi kouluun ja alkoi opiskelemaan. 
