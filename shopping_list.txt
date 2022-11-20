@@ -10,4 +10,9 @@ rizlat ja ventit
 10 pakettia hiivaa
 Mennen
 Koskenkorvaa
+<<<<<<< HEAD
 iltasanomat
+=======
+
+Uusimmat lehdet!
+>>>>>>> 1550b48cb88e6b28d2d14e68b90a83681cf5fa59
